@@ -1,0 +1,38 @@
+export const users = [
+    {
+        id:1,
+        name:"harsh",
+        email:"harsh@gmail.com",
+        password:"password123",
+        role:"admin"
+    },
+    {
+        id:2,
+        name:"Yash",
+        email:"Yash@gmail.com",
+        password:"password123",
+        role:"admin"
+    },
+    {
+        id:3,
+        name:"Sunil",
+        email:"Sunil@gmail.com",
+        password:"password123",
+        role:"user"
+    },
+    {
+        id:4,
+        name:"Rohit",
+        email:"Rohit@gmail.com",
+        password:"password123",
+        role:"user"
+    },
+    {
+        id:5,
+        name:"Satyarth",
+        email:"Satyarth@gmail.com",
+        password:"password123",
+        role:"user"
+    },
+]
+export default users;
